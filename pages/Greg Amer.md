@@ -1,0 +1,4 @@
+- Cohost of [[Illegal Argument Podcast]]
+- Senior Developer at SMX
+- Old co-organiser of the Auckland #Java User Group
+- Married to Michelle, who used to know [[Edwin Derricutt]]
