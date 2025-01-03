@@ -1,3 +1,5 @@
+public:: true
+
 - Custom Extensions
 	- BldDeps
 		- Wraps rangeresolver to handle dependecy resolutions and updates.
@@ -10,4 +12,3 @@
 	- BldBnd
 		- Wraps bndlib for OSGi support. Currently only adds a manifest file and doesn't handle full bnd dependency embedding etc
 		- LATER Look at supporting full bnd functionality
--
