@@ -1,3 +1,3 @@
 - [Jujutsu: A Haven for Mercurial Users at Mozilla | Hunting the Shmoo](https://ahal.ca/blog/2024/jujutsu-mercurial-haven/)
 - [Git and jujutsu: in miniature - lottia notes](https://lottia.net/notes/0013-git-jujutsu-miniature.html)
-- https://www.mgaudet.ca/technical/2024/11/12/dump-the-commit-contents-into-the-editor-when-editing-a-jujutsu-commit
+- [Dump the commit contents into the editor when editing a Jujutsu commit](https://www.mgaudet.ca/technical/2024/11/12/dump-the-commit-contents-into-the-editor-when-editing-a-jujutsu-commit)
