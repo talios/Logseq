@@ -3,3 +3,4 @@
 - [Dump the commit contents into the editor when editing a Jujutsu commit](https://www.mgaudet.ca/technical/2024/11/12/dump-the-commit-contents-into-the-editor-when-editing-a-jujutsu-commit)
 - [Cheatsheet for jj's builtin diff editor · Paul Smith](https://www.pauladamsmith.com/blog/2025/01/cheatsheet-for-jjs-builtin-diff-editor.html)
 - [Improving jj-gcp with  JSON  Schema and schemars](https://v5.chriskrycho.com/notes/improving-jj-gcp-with-json-schema-and-schemars/)
+- [Jujutsu VCS Introduction and Patterns | Kuba Martin](https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/)
