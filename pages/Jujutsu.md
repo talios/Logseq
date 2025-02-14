@@ -5,3 +5,4 @@
 - [Improving jj-gcp with  JSON  Schema and schemars](https://v5.chriskrycho.com/notes/improving-jj-gcp-with-json-schema-and-schemars/)
 - [Jujutsu VCS Introduction and Patterns | Kuba Martin](https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/)
 - [On Jujutsu and Magit &#183; Antoine Martin](https://blog.alarsyo.net/posts/2025/02/on-jujutsu-and-magit/)
+- [Using Jujutsu With Mozilla Unified | Hunting the Shmoo](https://ahal.ca/blog/2025/jujutsu-with-mozilla-unified/)
