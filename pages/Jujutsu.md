@@ -6,5 +6,5 @@
 - [Jujutsu VCS Introduction and Patterns | Kuba Martin](https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/)
 - [On Jujutsu and Magit &#183; Antoine Martin](https://blog.alarsyo.net/posts/2025/02/on-jujutsu-and-magit/)
 - [Using Jujutsu With Mozilla Unified | Hunting the Shmoo](https://ahal.ca/blog/2025/jujutsu-with-mozilla-unified/)
-- https://jonathan-frere.com/posts/jujutsu-shortest-ids/
+- [Why are Jujutsu's ID Prefixes So Short?](https://jonathan-frere.com/posts/jujutsu-shortest-ids/)
 - [Against Names](https://steveklabnik.com/writing/against-names/)
