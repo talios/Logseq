@@ -1,0 +1,75 @@
+title:: The Courage to Trust (highlights)
+author:: [[Cynthia Lynn Wall]]
+full-title:: "The Courage to Trust"
+category:: #books
+![](https://images-na.ssl-images-amazon.com/images/I/51ecyjdkhuL._SL200_.jpg)
+
+- Highlights first synced by [[Readwise]] [[Mar 25th, 2025]]
+	- Being trustworthy is the foundation of personal integrity. ([Location 37](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=37))
+		- **Tags**: #[[pink]]
+		- **Note**: It boggles the mind that somewhere, at some point in time, that someone had possible thought not being trustworthy might have been a good thing. To actively pursue the breaking of someone's trust, and thus becoming untrustworthy - just seems so illogical.
+	- The resulting pain and anxiety make us wonder if we’ll ever want to trust again. ([Location 106](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=106))
+		- **Tags**: #[[pink]]
+	- Because when you trust wholeheartedly, it brings tremendous comfort and joy, even while you know it may not last forever. ([Location 161](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=161))
+		- **Tags**: #[[pink]]
+	- Trust is the heartbeat of every significant relationship, with yourself as well as with others. ([Location 190](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=190))
+		- **Tags**: #[[pink]]
+	- Placing blind trust in someone is dependency, not real trust. ([Location 218](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=218))
+		- **Tags**: #[[pink]]
+	- Pretending to trust hides the secret feeling that you are a frightened child sneaking into serious adult relationships. ([Location 234](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=234))
+		- **Tags**: #[[pink]]
+	- If you were frequently shamed, deliberately betrayed, or suffered significant loss in childhood, an inability to trust your feelings and perceptions may linger into adulthood. This can cause simple misunderstandings to trigger self-doubt and limit your ability to be open in your most important relationships. Changing beliefs about your worth is essential to developing high levels of self-trust. ([Location 270](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=270))
+		- **Tags**: #[[pink]]
+	- Faith in a positive future means a willingness to go forward, despite the risk of failure or loss. Faith in the face of uncertainty is based on a sense that there is something intrinsically good about life, people in general, and your own future. It is not dependent on a single situation, person, or belief. Faith appears when you offer your heart to the truth, opening to a kinder reality, even after terrible things have happened. ([Location 297](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=297))
+		- **Tags**: #[[pink]]
+	- Faith is often taken for granted when we are not facing hardship. ([Location 308](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=308))
+		- **Tags**: #[[pink]]
+	- We act on faith when we deliberately envision good results in the face of uncertainty. ([Location 314](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=314))
+		- **Tags**: #[[pink]]
+	- Trusting others means relying on others’ honesty and commitment to keep their promises to you. ([Location 325](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=325))
+		- **Tags**: #[[pink]]
+	- When relationships feel threatened, the Child within you experiences self- doubt, shame, and fear. ([Location 375](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=375))
+		- **Tags**: #[[pink]]
+	- As you grow, the Protector develops new ways to keep you safe, denying pain and minimizing your feelings. Other techniques to numb bad feelings are added as you become more independent. Overeating, drugs, and forbidden relationships give a sense of immediate relief, regardless of the eventual negative consequences. ([Location 421](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=421))
+		- **Tags**: #[[pink]]
+	- The Adult holds the courage to act in spite of feeling anxious or uncertain. This is the face you present to the world. The Adult plans and sets goals, reads self-help books, goes to work, talks thoughtfully with friends, and pays the bills. This is the socialized self who looks for meaning in life and strives to not take things too personally. ([Location 494](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=494))
+		- **Tags**: #[[pink]]
+	- Should you not feel safe enough to ask, or there is no response, you are left with reviewing what happened alone. You are likely to find yourself teetering between being angry and wondering what you did wrong. Thoughts and feelings come fast and contradict each other. There is a danger of overreacting. This is because your three selves are out of balance, and the Adult is no longer in charge. ([Location 533](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=533))
+		- **Tags**: #[[pink]]
+	- We can obsess that we’ve blown an entire relationship with a thoughtless comment. ([Location 558](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=558))
+		- **Tags**: #[[pink]]
+	- Until you are ready to love yourself in your current state of imperfection, you can’t expect others to do so. ([Location 640](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=640))
+		- **Tags**: #[[pink]]
+	- Intimacy is strengthened every time differences are discussed and you take the risk to revisit difficult topics. The joy of steadfast intimacy comes after you have exposed deep truths and accept and understand each other. ([Location 653](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=653))
+		- **Tags**: #[[pink]]
+	- Intimacy is sabotaged by self-doubt, ([Location 662](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=662))
+		- **Tags**: #[[pink]]
+	- When your trust is betrayed, such as when a painful secret is told or you are deceived, someone can suddenly shift from intimate or friend to being completely outside the circle. This is devastating. What happens next depends on the mutual willingness to rebuild trust or decide to disconnect. ([Location 837](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=837))
+		- **Tags**: #[[pink]]
+	- In an instant, you may be overwhelmed by a confusion of feelings, whether or not the trust was broken on purpose. ([Location 864](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=864))
+		- **Tags**: #[[pink]]
+	- Anger might leak through by neglecting telephone calls or through sarcastic remarks. This hides your pain and prevents more hurt because you stay on the defensive. ([Location 940](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=940))
+		- **Tags**: #[[pink]]
+	- “If I can understand it, I can stand it,” ([Location 957](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=957))
+		- **Tags**: #[[pink]]
+	- Self-Discovery Exercise: How Do You React When You Are Accused? ([Location 1108](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=1108))
+	- People who feel betrayed often need to break off contact for a time. Your Child desperately wants to apologize and quickly explain away the problem. The panic you feel is about whether you’ll be reinstated into the circles of belonging again. ([Location 1196](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=1196))
+		- **Tags**: #[[pink]]
+	- Shame makes you so self-absorbed that you may ignore important boundaries, such as by constantly e-mailing or calling. The best rule is to give the other person the time off that he or she requests. ([Location 1198](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=1198))
+		- **Tags**: #[[pink]]
+	- Self-Discovery Exercise: Establishing a “Safety Zone” ([Location 1205](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=1205))
+	- Self-Discovery Exercise: The Joy of Being Wrong ([Location 1235](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=1235))
+	- A break in trust can’t be healed simply because you feel bad and are committed to changing your behavior. ([Location 1264](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=1264))
+		- **Tags**: #[[pink]]
+	- Self-Discovery Exercise: When Did You First Try to Be Perfect? ([Location 1314](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=1314))
+	- Self-Discovery Questionnaire: Are You Overly Responsible? ([Location 1362](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=1362))
+	- Self-Discovery Questionnaire: Self-Esteem vs. Approval from Others ([Location 1389](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=1389))
+	- Self-Discovery Exercise: What Is Your Current Pattern of Trust? ([Location 1485](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=1485))
+	- Self-Discovery Exercise: Where Do You Get Stuck? ([Location 1537](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=1537))
+	- Self-Discovery Exercise: Do You Stay Too Long? ([Location 1839](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=1839))
+	- Self-Discovery Exercise: What Still Makes You Feel Unworthy ([Location 1887](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=1887))
+	- Self-Discovery Exercise: Do You Seek Out People Who Need You? ([Location 1921](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=1921))
+	- Self-Discovery Exercise: Trust as a Pie Chart ([Location 2129](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=2129))
+	- Self-Discovery Exercise: If You Knew You Couldn’t Fail ([Location 2153](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=2153))
+	- Self-Discovery Exercise: Creating a Magic Circle ([Location 2171](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=2171))
+	- Self-Discovery Questionnaire: How Do You Rate as Your Own Friend? ([Location 2217](https://readwise.io/to_kindle?action=open&asin=B008ML4STI&location=2217))
