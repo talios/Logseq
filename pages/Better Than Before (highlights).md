@@ -9,3 +9,5 @@ url:: https://www.kobo.com/ebook/better-than-before-4
 	- Habits are the invisible architecture of daily life.
 	- identify a few habits that you’d like to adopt
 		- **Note**: Read more. Exercise more. Eat better.
+- New highlights added [[Apr 16th, 2025]] at 6:42 PM
+	- To understand how people are able to change, I must understand habits.
