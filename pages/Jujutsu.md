@@ -8,3 +8,4 @@
 - [Using Jujutsu With Mozilla Unified | Hunting the Shmoo](https://ahal.ca/blog/2025/jujutsu-with-mozilla-unified/)
 - [Why are Jujutsu's ID Prefixes So Short?](https://jonathan-frere.com/posts/jujutsu-shortest-ids/)
 - [Against Names](https://steveklabnik.com/writing/against-names/)
+- [zerowidth positive lookahead | What I've learned from jj](https://zerowidth.com/2025/what-ive-learned-from-jj/)
