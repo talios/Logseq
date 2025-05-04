@@ -9,3 +9,4 @@
 - [Why are Jujutsu's ID Prefixes So Short?](https://jonathan-frere.com/posts/jujutsu-shortest-ids/)
 - [Against Names](https://steveklabnik.com/writing/against-names/)
 - [zerowidth positive lookahead | What I've learned from jj](https://zerowidth.com/2025/what-ive-learned-from-jj/)
+- [zerowidth positive lookahead | jj tips and tricks](https://zerowidth.com/2025/jj-tips-and-tricks/)
