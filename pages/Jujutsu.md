@@ -10,3 +10,5 @@
 - [Against Names](https://steveklabnik.com/writing/against-names/)
 - [zerowidth positive lookahead | What I've learned from jj](https://zerowidth.com/2025/what-ive-learned-from-jj/)
 - [zerowidth positive lookahead | jj tips and tricks](https://zerowidth.com/2025/jj-tips-and-tricks/)
+- [Configuring Jujutsu · oppi.li](https://oppi.li/posts/configuring_jujutsu/)
+  id:: 6831082c-4694-4cbe-b937-f987a765bb2c
