@@ -13,3 +13,4 @@
 - [Configuring Jujutsu · oppi.li](https://oppi.li/posts/configuring_jujutsu/)
   id:: 6831082c-4694-4cbe-b937-f987a765bb2c
 - [GitHub - idursun/jjui: Jujutsu UI (jjui) is a Text User Interface (TUI) designed for interacting with the Jujutsu version control system.](https://github.com/idursun/jjui)
+  id:: 68355b98-6983-4c82-98c9-59b58f735883
