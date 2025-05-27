@@ -12,3 +12,4 @@
 - [zerowidth positive lookahead | jj tips and tricks](https://zerowidth.com/2025/jj-tips-and-tricks/)
 - [Configuring Jujutsu · oppi.li](https://oppi.li/posts/configuring_jujutsu/)
   id:: 6831082c-4694-4cbe-b937-f987a765bb2c
+- [GitHub - idursun/jjui: Jujutsu UI (jjui) is a Text User Interface (TUI) designed for interacting with the Jujutsu version control system.](https://github.com/idursun/jjui)
