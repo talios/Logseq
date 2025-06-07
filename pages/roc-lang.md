@@ -1,2 +1,5 @@
 - [The Roc Programming Language](https://www.roc-lang.org)
 - Modules
+	- [GitHub - smores56/weaver: An ergonomic command-line argument parser for the Roc language.](https://github.com/smores56/weaver)
+		- Seems to crash on the latest roc release tho
+	-
