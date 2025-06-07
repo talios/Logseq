@@ -1,7 +1,9 @@
 - [The Roc Programming Language](https://www.roc-lang.org)
 - {{video https://www.youtube.com/watch?v=7R204VUlzGc}}
+- {{video https://www.youtube.com/watch?v=yR6oHwPN7cE}}
 - Modules
 	- [GitHub - smores56/weaver: An ergonomic command-line argument parser for the Roc language.](https://github.com/smores56/weaver)
 		- Seems to crash on the latest roc release tho
 	- [GitHub - lukewilliamboswell/roc-awesome: Awesome Roc](https://github.com/lukewilliamboswell/roc-awesome)
+	-
 	-
