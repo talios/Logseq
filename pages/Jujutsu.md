@@ -16,3 +16,4 @@
   id:: 68355b98-6983-4c82-98c9-59b58f735883
 - [Jujutsu for Busy Devs](https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs)
   id:: 687f2dc5-eeb7-4de1-9ccb-54e6ffd905b4
+- [GitHub - jkoppel/jj-workshop](https://github.com/jkoppel/jj-workshop)
