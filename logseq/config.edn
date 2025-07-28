@@ -1,5 +1,7 @@
 {:meta/version 1
 
+ :editor/extra-codemirror-options   {:theme "revontuli"}
+ 
  ;; Set the preferred format.
  ;; Available options:
  ;; - Markdown (default)
