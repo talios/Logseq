@@ -1,0 +1,2 @@
+- * [Three Cool Things in C++26: Safety, Reflection & std::execution - Herb Sutter - C++ on Sea 2025](https://www.youtube.com/watch?v=kKbT0Vg3ISw)
+-
