@@ -14,4 +14,4 @@
 	- [How To Upgrade to Java 25](https://www.youtube.com/watch?v=9azNjz7s1Ck&t=1160s)
 - Static Code Analysis vs [[Language]] Servers
 - AI / Agents and Security Woes
--
+	- [[AI Expert DESTROYS the GPT-5 Hype](https://www.youtube.com/watch?v=Pq1PtOiXAwQ&pp=ygUSQUkgZXhwZXJ0IGRlc3Ryb3lz)]video https://www.youtube.com/watch?v=Pq1PtOiXAwQ&pp=ygUSQUkgZXhwZXJ0IGRlc3Ryb3lz}}
