@@ -13,5 +13,5 @@
 		- [The not-so-final word on final #JVMLS – Inside.java](https://inside.java/2025/08/12/jvmls-final-to-immutable/) - no more setAccessible!?
 	- [How To Upgrade to Java 25](https://www.youtube.com/watch?v=9azNjz7s1Ck&t=1160s)
 - Static Code Analysis vs [[Language]] Servers
-- AI
+- AI / Agents and Security Woes
 -
