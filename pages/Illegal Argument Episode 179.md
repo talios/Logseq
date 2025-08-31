@@ -11,3 +11,4 @@
 	- [Java 25 is ALSO no LTS Version](https://inside.java/2025/07/03/newscast-94)
 	- [JVM Language Summit 2025 - YouTube](https://www.youtube.com/playlist?list=PLX8CzqL3ArzUOgZpIX6GsoRhPbnij-sco)
 		- [The not-so-final word on final #JVMLS – Inside.java](https://inside.java/2025/08/12/jvmls-final-to-immutable/) - no more setAccessible!?
+- Static Code Analysis,
