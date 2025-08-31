@@ -13,5 +13,8 @@
 		- [The not-so-final word on final #JVMLS – Inside.java](https://inside.java/2025/08/12/jvmls-final-to-immutable/) - no more setAccessible!?
 	- [How To Upgrade to Java 25](https://www.youtube.com/watch?v=9azNjz7s1Ck&t=1160s)
 - Static Code Analysis vs [[Language]] Servers
-- AI / Agents and Security Woes
-	- [[AI Expert DESTROYS the GPT-5 Hype](https://www.youtube.com/watch?v=Pq1PtOiXAwQ&pp=ygUSQUkgZXhwZXJ0IGRlc3Ryb3lz)]video https://www.youtube.com/watch?v=Pq1PtOiXAwQ&pp=ygUSQUkgZXhwZXJ0IGRlc3Ryb3lz}}
+- AI / Agents and [[Security]] Woes
+	- [AI Expert DESTROYS the GPT-5 Hype](https://www.youtube.com/watch?v=Pq1PtOiXAwQ&pp=ygUSQUkgZXhwZXJ0IGRlc3Ryb3lz)
+	- [Programmable 2025: AI is a Hype-Fuelled Dumpster Fire - Chris Simon](https://www.youtube.com/watch?v=0bF_AQvHs1M)
+		- Basically covers ethics of using AI (data theft, conditions of data workers and energy costs) and risks associated (data bias, stochastic parrot, psychological effects)
+	-
