@@ -17,4 +17,7 @@
 	- [AI Expert DESTROYS the GPT-5 Hype](https://www.youtube.com/watch?v=Pq1PtOiXAwQ&pp=ygUSQUkgZXhwZXJ0IGRlc3Ryb3lz)
 	- [Programmable 2025: AI is a Hype-Fuelled Dumpster Fire - Chris Simon](https://www.youtube.com/watch?v=0bF_AQvHs1M)
 		- Basically covers ethics of using AI (data theft, conditions of data workers and energy costs) and risks associated (data bias, stochastic parrot, psychological effects)
+	- [MCP Horror Stories: The GitHub Prompt Injection Data Heist](https://www.docker.com/blog/mcp-horror-stories-github-prompt-injection/)
+	- [Claude Code: Data Exfiltration with DNS (CVE-2025-55284) · Embrace The Red](https://embracethered.com/blog/posts/2025/claude-code-exfiltration-via-dns-requests/)
+	- [Black Hat 2025 Media Interview: Mimecast's Jason Morgan with ISMG](https://www.youtube.com/watch?v=xsIoL5T89Q8)
 	-
