@@ -10,3 +10,5 @@ category:: #books
 	- What I remember most of all is an audience participation thing called the “Mosh Pit”
 	- “Do your best to present yourself to God as one approved, a worker who does not need to be ashamed and who correctly handles the word of truth.” 1 Timothy 2:15
 	- Back in the day, glam rock involved long teased hair, spandex material, and makeup. But was not considered homosexual or transexual. Maybe by a few outsiders but in no way by the fans. It was always presented with a macho swagger with musicians having a hot babe on each arm. Nobody was stupid and confused. You either had a hole or a pole. No brainer.
+- New highlights added [[Jan 2nd, 2026]] at 10:30 PM
+	- Roadies. Very, very important
