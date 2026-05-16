@@ -1,0 +1,13 @@
+title:: Java Application Architecture (highlights)
+author:: [[Kirk Knoernschild]]
+full-title:: "[[Java]] Application Architecture"
+category:: #books
+![](https://images-na.ssl-images-amazon.com/images/I/51Lo4v5pD5L._SL200_.jpg)
+
+- Highlights first synced by [[Readwise]] [[Mar 25th, 2025]]
+	- I’ll tell you where we went wrong. The Web bamboozled us. We all got Twitterpated. We thought the Web was revolutionary. We thought the Web changed everything. We thought the Web made all the old rules irrelevant. We thought the Web was so new, so revolutionary, and so game-changing that we ignored the rules of the game. And we paid. Oh, God, how we paid. We paid with huge, unmanageable designs. We paid with tangled, messy code. We paid with misguided directionless architectures. We paid with failed projects, bankrupt companies, and broken dreams. We paid, and we paid, and we paid. ([Location 378](https://readwise.io/to_kindle?action=open&asin=B007KOGS5U&location=378))
+		- **Note**: We all got Twitterpated...
+	- In his 1972 paper “On the Criteria to Be Used in Decomposing Systems into Modules,” David Parnas cited the work of Gouthier and Pont as the first lucid statement of modular programming (1972): A well-defined segmentation of the project effort ensures system modularity. Each task forms a separate, distinct program module. At implementation time each module and its inputs and outputs are well-defined, there is no confusion in the intended interface with other system modules. At checkout time the integrity of the module is tested independently; there are few scheduling problems in synchronizing the completion of several tasks before checkout can begin. Finally, the system is maintained in modular fashion; system errors and deficiencies can be traced to specific system modules, thus limiting the scope of detailed error searching. ([Location 1195](https://readwise.io/to_kindle?action=open&asin=B007KOGS5U&location=1195))
+	- Unfortunately, if modules become too lightweight and fine-grained, we’re faced with the dilemma of an explosion in module and context dependencies. Modules depend on other modules and require extensive configuration to deal with context dependencies! Overall, as the number of dependencies increase, modules become more complex and difficult to use, ([Location 1534](https://readwise.io/to_kindle?action=open&asin=B007KOGS5U&location=1534))
+	- The unit of reuse is the unit of release. ([Location 2467](https://readwise.io/to_kindle?action=open&asin=B007KOGS5U&location=2467))
+		- **Note**: The unit of reuse is the unit of release.
