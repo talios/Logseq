@@ -1,2 +1,0 @@
-- TODO https://gerrit.smxemail.com/c/dev/smx3-ui-extjs/+/31220
-- TODO https://gerrit.smxemail.com/c/dev/ansible/+/31141
